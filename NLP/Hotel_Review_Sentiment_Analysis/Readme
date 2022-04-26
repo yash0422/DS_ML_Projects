@@ -1,0 +1,19 @@
+SENTIMENT ANALYSIS ON HOTEL REVIEW:
+
+Model: Logistic Regression
+
+STEPS:
+
+1. Import DataSet
+2. EDA
+3. Missing Value if Any!
+4. Check Distribution of Review Type - Not Happy and Happy
+5. Drop unwanted columns
+6. Apply Text Cleaning - Level 1 and Level 2
+7. Train Test Split
+8. Create Instance for TF-IDF Vectorizer and Logistic Regression
+9. Train Model
+10. Do Prediction
+11. Plot Confusion Matrix
+12. Check Accuracy, Precision and Recall
+13. Test on Dummy Text String.
